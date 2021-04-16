@@ -34,7 +34,7 @@
    "license": "CC-BY-NC-SA-4.0",
    "devDependencies": {
       "@vuepress/plugin-back-to-top": "^1.8.2",
-      "markdown-it-multimd-table": "^4.0.3",
+      "markdown-it-multimd-table": "^4.1.0",
       "markdown-link-check": "^3.8.7",
       "markdownlint-cli": "^0.27.1",
       "run-script-os": "^1.1.6",
